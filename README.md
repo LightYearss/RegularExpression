@@ -5,5 +5,6 @@
   JavaScript通过内置对象RegExp支持正则表达式，有两种方法实例化RegExp对象：
   
   1.字面量
-  
+    var reg = /\bis\b/g;
+    
   2.构造函数
