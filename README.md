@@ -6,6 +6,6 @@
   
   1.字面量
   
-    var reg = /\bis\b/g;
+    `var reg = /\bis\b/g;`
     
   2.构造函数
