@@ -1,4 +1,4 @@
-# 关于正则表达式的学习笔记
+# Something About Regular Expression
 ## 什么是正则表达式
   正则表达式(*Regular Expression*)是指使用单个字符串来描述、匹配一系列符合某个句法规则的字符串.
 ## RegExp对象
