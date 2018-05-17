@@ -19,3 +19,12 @@
     · i:ignore case忽略大小写，默认大小写敏感
     
     · m:multiple lines多行搜索
+
+## 注意事项
+ 1.特殊符号
+ 
+ ！ $ ^ * + = | . ? \ / ( ) [ ] { }
+ 
+ 2.特殊字符
+ 
+ o t n v f r xnn uxxxx cX
